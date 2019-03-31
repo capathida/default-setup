@@ -1,0 +1,29 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "description": "frontend in react\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[CA default frontend in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capathida/default-setup.git"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "express",
+    "openapi",
+    "redis"
+  ],
+  "author": "Patrik Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capathida/default-setup/issues"
+  },
+  "homepage": "https://github.com/capathida/default-setup#readme",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  }
+}
